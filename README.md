@@ -1,6 +1,3 @@
-# Data
-
-
 ## Prolonged and Severe Drought in the Most Dammed Tributaries of the Lower Mekong Basin
 
 *Kimsan Chann, Ty Sok, Romduol Khoeun, Vuthy Men, Supattra Visessri, Chantha Oeurng, Ratha Sor and Sarah E. Null*
