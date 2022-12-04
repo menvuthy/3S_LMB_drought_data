@@ -1,4 +1,4 @@
-[![CC BY 4.0][cc-by-shield]][cc-by] [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.6894273-blue.svg)](https://doi.org/10.3390/xxxxx)
+[![CC BY 4.0][cc-by-shield]][cc-by] [![DOI](https://img.shields.io/badge/DOI-10.5281/xxx.xxx-blue.svg)](https://doi.org/10.3390/xxxxx)
 
 
 ## Prolonged and Severe Drought in the Most Dammed Tributaries of the Lower Mekong Basin
